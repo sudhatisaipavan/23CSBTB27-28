@@ -7,3 +7,5 @@
 6. [https://github.com/sudhatisaipavan/23CSBTB27-28/blob/main/LAB_6.ipynb]
 7. [https://github.com/sudhatisaipavan/23CSBTB27-28/blob/main/lab_7.ipynb]
 8. [https://github.com/sudhatisaipavan/23CSBTB27-28/blob/main/lab_08.ipynb]
+9. [https://github.com/sudhatisaipavan/23CSBTB27-28/blob/main/random_forest.ipynb]
+
